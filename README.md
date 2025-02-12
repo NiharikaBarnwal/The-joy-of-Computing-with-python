@@ -38,7 +38,7 @@ The **Joy of Computing with Python** is an NPTEL course offered via Swayam, desi
 ## 📜 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/The-joy-of-Computing-with-python.git
+   git clone https://github.com/NiharikaBarnwal/The-joy-of-Computing-with-python.git
    ```
 2. Navigate to the relevant week folder:  
    ```bash
